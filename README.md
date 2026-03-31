@@ -1,5 +1,3 @@
-# 📄 Digital Literacy Project Report
-
 ## 🧾 Title Page
 * **Name:** Vinayak Makwana
 * **Registration Number:** 25BCE10968 
